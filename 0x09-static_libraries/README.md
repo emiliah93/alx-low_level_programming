@@ -2,7 +2,7 @@ Concepts
 
 For this project, we expect you to look at this concept:
 
-[[C static libraries](https://intranet.alxswe.com/rltoken/XB1iH0qE6gshx0x8TfRAPQ)](https://intranet.alxswe.com/concepts/61)
+[[C static libraries}]
 
 
 Resources
