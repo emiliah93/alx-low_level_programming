@@ -1,7 +1,7 @@
 Concepts
 For this project, we expect you to look at this concept:
 
-C static libraries
+[C static libraries](https://intranet.alxswe.com/rltoken/XB1iH0qE6gshx0x8TfRAPQ)
 Resources
 Read or watch:
 
